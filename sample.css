@@ -1,0 +1,39 @@
+h1{
+    color:red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-size: x-large;
+    text-align:left;
+    background-color: black;
+    padding-left: 5px;
+    margin-top: 60px;
+    margin-left: 0px;
+    margin-right: 140px;
+    margin-bottom: 0px;
+}
+
+.class1{
+    color:red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-size: x-large;
+    text-align:center;
+    background-color: rgb(241, 230, 10);
+    padding-left: 5px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 70px;
+}
+
+.class2{
+    color:rgb(15, 14, 14);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-size: x-large;
+    text-align:right;
+    background-color: rgb(31, 246, 7);
+    padding-left: 5px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
